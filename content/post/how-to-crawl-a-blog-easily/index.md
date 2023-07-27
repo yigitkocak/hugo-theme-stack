@@ -1,17 +1,20 @@
 ---
+author: "Yigit Kocak"
 title: "How to Crawl a Blog Easily"
 date: "2018-05-29T16:59:00"
 lastmod: "2019-10-05T19:00:00"
-hero: /images/posts/writing-posts/analytics.svg
 description: "There is a huge amount of information out there and it's getting harder and harder to create unique and appealing content."
-theme: Toha
-menu:
-  sidebar:
-    name: How to Crawl a Blog Easily
-    identifier: how-to-crawl-a-blog-easily
-    weight: 996
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: [
+    "web scraping",
+    "scraping hub",
+]
+categories: [
+    "web scraping",
+    "scraping hub",
+]
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+image: "matt-le-SJSpo9hQf7s-unsplash.jpg"
 ---
 
 There is a huge amount of information out there and it's getting harder and harder to create unique and appealing content. The common excuse is that there is no time, skills, or energy.

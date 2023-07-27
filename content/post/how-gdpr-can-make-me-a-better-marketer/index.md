@@ -1,17 +1,20 @@
 ---
+author: "Yigit Kocak"
 title: "How GDPR Can Make Me a Better Marketer"
 date: "2018-05-24T10:25:00"
 lastmod: "2019-10-05T19:00:00"
-hero: /images/posts/writing-posts/analytics.svg
 description: "GPDR can be a marketer's nightmare but I'd like to look at it from the bright side by evolving to a better marketer."
-theme: Toha
-menu:
-  sidebar:
-    name: How GDPR Can Make Me a Better Marketer
-    identifier: how-gdpr-can-make-me-a-better-marketer
-    weight: 998
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: [
+    "gdpr",
+    "data privacy",
+]
+categories: [
+    "gdpr",
+    "data privacy",
+]
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+image: "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 ---
 
 # GDPR

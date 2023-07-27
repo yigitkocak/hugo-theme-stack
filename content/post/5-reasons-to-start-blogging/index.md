@@ -1,17 +1,20 @@
 ---
+author: "Yigit Kocak"
 title: "5 Reasons to Start Blogging"
 date: "2018-05-16T16:59:00"
 lastmod: "2019-10-05T19:00:00"
-hero: /images/posts/writing-posts/analytics.svg
 description: "To understand blogging, I had to start from some point. I asked a lot of questions on why I should start and found 5 reasons to do it."
-theme: Toha
-menu:
-  sidebar:
-    name: 5 Reasons to Start Blogging
-    identifier: 5-reasons-to-start-blogging
-    weight: 999
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: [
+    "blogging",
+    "logging",
+]
+categories: [
+    "blogging",
+    "logging",
+]
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+image: "luca-bravo-alS7ewQ41M8-unsplash.jpg"
 ---
 
 ## Be heard

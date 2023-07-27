@@ -1,17 +1,21 @@
 ---
+author: "Yigit Kocak"
 title: "SEO Audits and Best Practices (Part 1)"
 date: "2018-06-25T16:00:00"
 lastmod: "2019-10-05T19:00:00"
 hero: /static/images/posts/seo-auditing.svg
 description: "This is the first part of SEO audits and best practices. It is about the most common on-page optimization strategies."
-theme: Toha
-menu:
-  sidebar:
-    name: SEO Audits and Best Practices (Part 1)
-    identifier: seo-audits-and-best-practices
-    weight: 994
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: [
+    "seo",
+    "seo audits",
+]
+categories: [
+    "seo",
+    "seo audits",
+]
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+image: ""
 ---
 
 Think of something that you want to be number 1 at. Is it easy to get there? How many other people are racing to the top? Who are the moderators/judges to decide?

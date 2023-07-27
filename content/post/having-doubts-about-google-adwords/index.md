@@ -1,17 +1,20 @@
 ---
-title: "Having Doubts About Google AdWords"
+author: "Yigit Kocak"
+title: "Having Doubts About Google Ads"
 date: "2018-05-27T16:06:00"
 lastmod: "2019-10-05T19:00:00"
-hero: /images/posts/writing-posts/analytics.svg
 description: "The magic is shifting towards algorithms that we cannot understand yet again and will result in spending budget on trying to make it work."
-theme: Toha
-menu:
-  sidebar:
-    name: Having Doubts About Google AdWords
-    identifier: having-doubts-about-google-adwords
-    weight: 997
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: [
+    "google ads",
+    "ppc",
+]
+categories: [
+    "google ads",
+    "ppc",
+]
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+image: "the-creative-exchange-d2zvqp3fpro-unsplash.jpg"
 ---
 
 ## Advertising in 19th-20th Century

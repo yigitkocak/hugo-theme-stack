@@ -1,17 +1,20 @@
 ---
+author: "Yigit Kocak"
 title: "How I Plan a New Marketing Strategy"
 date: "2018-06-03T11:48:00"
 lastmod: "2019-10-05T19:00:00"
-hero: /images/posts/writing-posts/analytics.svg
 description: "Planning a marketing strategy from scratch can be a daunting task. Here's my take when I start a new project."
-theme: Toha
-menu:
-  sidebar:
-    name: How I Plan a New Marketing Strategy
-    identifier: how-i-plan-a-new-marketing-strategy
-    weight: 995
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: [
+    "marketing",
+    "marketing strategy",
+]
+categories: [
+    "marketing",
+    "marketing strategy",
+]
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+image: ""
 ---
 
 ## Analyze past metrics
