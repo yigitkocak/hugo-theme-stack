@@ -91,6 +91,9 @@ links:
   - title: Asana
     website: https://asana.com
     image: asana.com.png
+  - title: Prisync
+    website: https://prisync.com/
+    image: prisync.png
   - title: Hitask
     website: https://hitask.com/
     image: hitask.com.png
@@ -145,7 +148,7 @@ links:
   - title: Apple developers
     website: https://developer.apple.com/
     image: developer.apple.com.png
-  - title: Connectively (Former HARO) (Sign up with your qualifications)
+  - title: Connectively (Former HARO)
     website: https://www.helpareporter.com/
     image: www.helpareporter.com.png
   - title: Segment
