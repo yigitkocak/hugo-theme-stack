@@ -34,3 +34,4 @@ Quotes from past articles:
 * https://www.orderhive.com/blog/e-commerce-repricing-all-you-need-to-know
 * https://laptrinhx.com/dynamic-pricing-explained-use-in-revenue-management-and-pricing-optimization-1628858669/
 * https://www.getmesa.com/blog/the-22-ecommerce-automations-growth-focused-stores-need-to-be-running/
+* https://lunio.ai/blog/paid-social/linkedin-ads-tips-b2b/

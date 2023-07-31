@@ -1,16 +1,16 @@
 ---
 title: Tools I Use
 links:
-  - title: Analytics
-    website: https://www.google.com/analytics/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=analytics-card
+  - title: Google Analytics
+    website: https://www.google.com/analytics/
     image: google.com.png
   - title: Google Ads
     website: https://ads.google.com/intl/en_us/getstarted/
     image: google.com.png
-  - title: Search Console
+  - title: Google Search Console
     website: https://www.google.com/webmasters/tools/home?hl=en
     image: google.com.png
-  - title: Tag Manager
+  - title: Google Tag Manager
     website: https://www.google.com/tagmanager/
     image: google.com.png
   - title: Trello
@@ -34,7 +34,7 @@ links:
   - title: Linkedin Ads
     website: https://business.linkedin.com/marketing-solutions/ads
     image: linkedin.png
-  - title: Bing(Microsoft) Ads
+  - title: Microsoft Ads
     website: https://ads.microsoft.com/
     image: microsoft.com.png
   - title: Slack
@@ -148,7 +148,7 @@ links:
   - title: Apple developers
     website: https://developer.apple.com/
     image: developer.apple.com.png
-  - title: Connectively (Former HARO)
+  - title: HARO
     website: https://www.helpareporter.com/
     image: www.helpareporter.com.png
   - title: Segment
@@ -170,4 +170,4 @@ menu:
 
 comments: false
 ---
-Below are some valuable tools I use for work, productivity, analytics, SEO, PPC, and SoMe.
+Below are some valuable tools I use for work, development, productivity, analytics, SEO, PPC, and more.
