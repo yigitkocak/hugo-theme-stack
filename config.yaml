@@ -1,13 +1,13 @@
-baseurl: https://example.com
+baseurl: https://yigit-kocak.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Thoughts, tests, and tricks about digital marketing, advertising, and analytics.
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Thoughts, tests, and tricks about digital marketing, advertising, and analytics.
         description: Example description
         weight: 1
     tr:
