@@ -13,8 +13,8 @@ categories: [
     "scraping hub",
 ]
 series: ["Themes Guide"]
-aliases: ["migrate-from-jekyl"]
-image: "matt-le-SJSpo9hQf7s-unsplash.jpg"
+aliases: ["how-to-crawl-a-blog"]
+image: "how-to-crawl-a-blog.png"
 ---
 
 There is a huge amount of information out there and it's getting harder and harder to create unique and appealing content. The common excuse is that there is no time, skills, or energy.

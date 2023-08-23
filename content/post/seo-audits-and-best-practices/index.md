@@ -14,8 +14,8 @@ categories: [
     "seo audits",
 ]
 series: ["Themes Guide"]
-aliases: ["migrate-from-jekyl"]
-image: ""
+aliases: ["seo-audits-and-best-practices"]
+image: "seo-audits-and-best-practices.png"
 ---
 
 Think of something that you want to be number 1 at. Is it easy to get there? How many other people are racing to the top? Who are the moderators/judges to decide?

@@ -13,8 +13,8 @@ categories: [
     "data privacy",
 ]
 series: ["Themes Guide"]
-aliases: ["migrate-from-jekyl"]
-image: "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+aliases: ["gdpr-to-be-better"]
+image: "How-GDPR-Can-Make-Me-a-Better-Marketer.png"
 ---
 
 # GDPR

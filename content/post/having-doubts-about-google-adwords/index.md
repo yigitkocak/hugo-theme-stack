@@ -13,8 +13,8 @@ categories: [
     "ppc",
 ]
 series: ["Themes Guide"]
-aliases: ["migrate-from-jekyl"]
-image: "the-creative-exchange-d2zvqp3fpro-unsplash.jpg"
+aliases: ["having-doubts-about-digital-advertising"]
+image: "having-doubts-about-digital-advertising.png"
 ---
 
 ## Advertising in 19th-20th Century
