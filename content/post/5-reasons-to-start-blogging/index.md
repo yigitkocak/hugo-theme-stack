@@ -13,8 +13,8 @@ categories: [
     "logging",
 ]
 series: ["Themes Guide"]
-aliases: ["migrate-from-jekyl"]
-image: "luca-bravo-alS7ewQ41M8-unsplash.jpg"
+aliases: ["starting-to-blog"]
+image: "5-Reasons-to-Start-Blogging.png"
 ---
 
 ## Be heard
