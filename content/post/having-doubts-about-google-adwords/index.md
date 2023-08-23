@@ -14,7 +14,7 @@ categories: [
 ]
 series: ["Themes Guide"]
 aliases: ["having-doubts-about-digital-advertising"]
-image: "having-doubts-about-digital-advertising.png"
+image: "having-doubts-about-advertising.png"
 ---
 
 ## Advertising in 19th-20th Century
