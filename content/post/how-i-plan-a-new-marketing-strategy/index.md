@@ -13,8 +13,8 @@ categories: [
     "marketing strategy",
 ]
 series: ["Themes Guide"]
-aliases: ["migrate-from-jekyl"]
-image: ""
+aliases: ["how-i-plan-a-new-marketing-strategy"]
+image: "how-i-plan-a-new-marketing-strategy.png"
 ---
 
 ## Analyze past metrics
