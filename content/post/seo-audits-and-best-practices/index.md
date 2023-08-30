@@ -11,7 +11,6 @@ tags: [
 ]
 categories: [
     "seo",
-    "seo audits",
 ]
 series: ["Themes Guide"]
 aliases: ["seo-audits-and-best-practices"]

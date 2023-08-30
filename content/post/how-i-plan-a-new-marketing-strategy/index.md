@@ -6,11 +6,10 @@ lastmod: "2019-10-05T19:00:00"
 description: "Planning a marketing strategy from scratch can be a daunting task. Here's my take when I start a new project."
 tags: [
     "marketing",
-    "marketing strategy",
+    "strategy",
 ]
 categories: [
-    "marketing",
-    "marketing strategy",
+    "marketing"
 ]
 series: ["Themes Guide"]
 aliases: ["how-i-plan-a-new-marketing-strategy"]

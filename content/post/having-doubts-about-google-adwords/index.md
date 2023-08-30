@@ -7,10 +7,10 @@ description: "The magic is shifting towards algorithms that we cannot understand
 tags: [
     "google ads",
     "ppc",
+    "sem",
 ]
 categories: [
-    "google ads",
-    "ppc",
+    "advertising"
 ]
 series: ["Themes Guide"]
 aliases: ["having-doubts-about-digital-advertising"]

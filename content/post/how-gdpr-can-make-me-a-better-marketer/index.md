@@ -9,8 +9,7 @@ tags: [
     "data privacy",
 ]
 categories: [
-    "gdpr",
-    "data privacy",
+    "analytics"
 ]
 series: ["Themes Guide"]
 aliases: ["gdpr-to-be-better"]

@@ -9,10 +9,9 @@ tags: [
     "logging",
 ]
 categories: [
-    "blogging",
-    "logging",
+    "content",
 ]
-series: ["Themes Guide"]
+series: [""]
 aliases: ["starting-to-blog"]
 image: "5-Reasons-to-Start-Blogging.png"
 ---

@@ -10,7 +10,6 @@ tags: [
 ]
 categories: [
     "web scraping",
-    "scraping hub",
 ]
 series: ["Themes Guide"]
 aliases: ["how-to-crawl-a-blog"]
