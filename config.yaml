@@ -44,7 +44,7 @@ params:
 
     footer:
         since: 2023
-        customText:
+        customText: <a href="https://yigit-kocak.com/page/terms/" target="_blank" rel="noopener">Terms and Conditions</a> | <a href="https://yigit-kocak.com/page/privacy/" target="_blank" rel="noopener">Privacy Policy</a> | <a href="https://yigit-kocak.com/page/cookies/" target="_blank" rel="noopener">Cookie Policy</a> | <a href="https://yigit-kocak.com/page/disclaimer/" target="_blank" rel="noopener">Disclaimer</a>
 
     dateFormat:
         published: Jan 02, 2006
